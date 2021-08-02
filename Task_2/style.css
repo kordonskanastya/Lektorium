@@ -1,0 +1,81 @@
+h1{
+  font-family: Times, Times New Roman, Georgia, serif;
+  text-align: center;
+  margin: 150px 0 -180px 0;
+  color: #4868d6;
+}
+
+h3{
+  font-family: Times, Times New Roman, Georgia, serif;
+  text-align: left;
+  margin: 20px 0 20px 60px;
+}
+
+a {
+  font-size: 16px;
+  font-family: Times, Times New Roman, Georgia, serif;
+  text-align: right;
+  margin: auto 0 0 65px;
+  text-decoration: none;
+  color: #4868d6;
+}
+
+.google{
+  text-align: center;
+  font-size: 18px;
+  margin: 20px;
+}
+
+p{
+  font-size: 16px;
+  font-family: Times, Times New Roman, Georgia, serif;
+  text-align: left;
+  margin: auto 60px;
+}
+
+.container{
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);;
+  border-radius: 4px;
+  height: 400px;
+  width: 400px;
+  margin: 200px auto 0 auto;
+  text-align: center;
+}
+
+input[type='text'], input[type='password']{
+  width: 250px;
+  height:30px;
+  font-size: 18px;
+  margin-bottom: 25px;
+  border-radius: 4px;
+  border-color: #4868d6;
+  padding-left: 20px;
+}
+
+input[type='submit']{
+  background: #4868d6;
+  width: 275px;
+  height: 35px;
+  font-size: 17px;
+  color: white;
+  border-radius: 4px;
+  border-color: #4868d6;
+  
+}
+
+.signup{
+  text-align: center;
+  font-size: 16px;
+  margin: auto 0 0 5px;
+}
+
+#split{
+  margin: 0;
+}
+
+.box{
+  font-size: 16px;
+  font-family: Times, Times New Roman, Georgia, serif;
+  margin-left: -100px;
+  
+}
